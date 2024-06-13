@@ -103,7 +103,7 @@ apt install -y i3
 sleep 10
 echo "Letting pen drive rest..."
 
-apt install picom
+apt install -y picom
 
 sleep 10
 echo "Letting pen drive rest..."
