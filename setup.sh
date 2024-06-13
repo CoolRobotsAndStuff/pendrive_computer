@@ -103,6 +103,11 @@ apt install -y i3
 sleep 10
 echo "Letting pen drive rest..."
 
+apt install picom
+
+sleep 10
+echo "Letting pen drive rest..."
+
 
 echo "Now you need to update the .xinitrc, and install the FiraCodeNerdFont."
 
